@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90925439970",
+    "project_id": "satellite-wifi-services",
+    "storage_bucket": "satellite-wifi-services.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90925439970:android:8cb01eadc749d5fa2ab7bb",
+        "android_client_info": {
+          "package_name": "com.aistudio.satellitewifi.uipmza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kU6fPavL-8rd50aJrgo-aCfT-fRmURQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

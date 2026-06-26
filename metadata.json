@@ -1,0 +1,6 @@
+{
+  "name": "Satellite WiFi",
+  "description": "Satellite WiFi Services application for ISP client account management, billing, WiFi configuration, and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
